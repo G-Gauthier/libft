@@ -1,0 +1,2 @@
+# libft
+Library 42
