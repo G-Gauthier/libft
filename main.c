@@ -1,5 +1,7 @@
-int main(int argc, char const *argv[])
+#include "libft.h"
+
+int main(int ac, char **av)
 {
-	/* code */
+	ft_putchar(av[0][0]);
 	return 0;
 }
